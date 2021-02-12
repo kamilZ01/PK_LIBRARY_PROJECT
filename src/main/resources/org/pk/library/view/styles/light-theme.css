@@ -1,0 +1,28 @@
+.jfx-button {
+	-fx-background-color: #B0BEC5;
+	-fx-text-fill: white;
+    -fx-border-color:grey;
+    -fx-background-radius:20;
+    -fx-border-radius:20;
+}
+
+.jfx-button:hover {
+	-fx-background-color: #607D8B
+}
+
+.table-column {
+    -fx-alignment: center;
+}
+
+.tab-pane {
+    -fx-tab-min-width:90px;
+}
+
+.aboutHeading{
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.jfx-layout-body {
+    -fx-font-size:15px;
+}
